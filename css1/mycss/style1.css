@@ -35,13 +35,19 @@ font-size:40px;
 	
 font-size:35px;	
 color:white;
+position: absolute;
+top:50%;
+transform:translateY(-50%);
+widows: 100%;
+text-align: center;
+
 }
 
 .icons a
 {
 	
 
-color:rgb(8, 7, 7);
+color:white;
 }
 
 
