@@ -3,7 +3,9 @@
 
 .mydiv1
 {
-width:1333px;
+/*width:1333px;
+height:825px; */
+width:1000px;
 height:825px;
 /* background-image: url(img2.jpg); */
  background-image: url(background.jpg);
@@ -13,8 +15,8 @@ background-repeat-y: no-repeat;
 
 .mydiv2
 {
-	width:400px;
-	height:400px;
+	width:300px;
+	height:300px;
 color:white;
 text-align:center;
 padding:40px;
