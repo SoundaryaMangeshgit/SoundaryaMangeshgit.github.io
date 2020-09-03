@@ -35,27 +35,24 @@ font-size:40px;
 	
 font-size:35px;	
 color:white;
-position: absolute;
-top:50%;
-transform:translateY(-50%);
-widows: 100%;
-text-align: center;
+
 
 }
 
 .icons a
 {
-	
+	text_decoration:none;
 
-color:white;
+
 }
 
 
 
 	.icon {
+		color:white;
 		text-decoration: none;
 		display: inline-block;
-			font-family: FontAwesome;
+		font-family: FontAwesome;
 	}
 
 		
